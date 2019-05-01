@@ -13,3 +13,5 @@ plt.hist(img.ravel(),256)
 plt.figure()
 plt.hist(equ.ravel(),256)
 
+plt.show()
+
